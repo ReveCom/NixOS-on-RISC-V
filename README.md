@@ -14,11 +14,6 @@ For RISC-V specifically, the same idea applies. With a proper NixOS image on the
 
 We got a native Nix build and a Kubernetes node running on a RISC-V board (year-old RVA21 system from DeepComputing). That shows the Nix package set (nixpkgs) and the tools needed to build a NixOS system can work on the hardware.
 
-What we did **not** have yet:
-- Finished benchmark results
-- Full pods running
-- Complete, ready-to-use NixOS images for side-by-side testing
-
 The side-by-side performance numbers (RISC-V vs ARM vs x86) still have to be run. Screenshots of the progress were shown during the NixCon 2026 talk but were hard to read on the big screen.
 
 ## Why RISC-V
