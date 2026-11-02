@@ -33,4 +33,4 @@ Once those pieces are in place, this repo will hold the Nix expressions, hardwar
 
 ## Talk
 
-This work was discussed in the NixCon 2026 talk “Declarative Frontiers: Running Kubernetes on RISC-V with NixOS” (Bruce Gain / ReveCom and Yuning Liang / DeepComputing). The talk covered the motivation and early progress; the finished comparisons are still ahead.
+This work was discussed in the NixCon 2026 talk [“Declarative Frontiers: Running Kubernetes on RISC-V with NixOS”]([url](https://www.youtube.com/watch?v=Zu1c7j1ah0A)) (Bruce Gain / ReveCom and Yuning Liang / DeepComputing). The talk covered the motivation and early progress; the finished comparisons are still ahead.
