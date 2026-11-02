@@ -20,7 +20,7 @@ The side-by-side performance numbers (RISC-V vs ARM vs x86) still have to be run
 
 RISC-V is open and freely available. No government or company can simply charge you for the RISC-V instruction set or prevent you from implementing it. Anyone who wants to build a CPU can do so, provided they understand the architecture and comply with the applicable requirements.
 
-It reduces the instruction set to the essentials (with optional extensions). It originated at Berkeley in the same academic tradition as earlier reduced-instruction-set work.
+It reduces the instruction set to the essentials (with optional extensions). It originated at Berkeley in the same academic tradition as earlier reduced-instruction-set work.There is so much to say and know about Nix.
 
 ## Next steps
 
