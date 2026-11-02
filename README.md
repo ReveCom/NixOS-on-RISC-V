@@ -16,9 +16,9 @@ We got a native Nix build and a Kubernetes node running on a RISC-V board (year-
 
 The side-by-side performance numbers (RISC-V vs ARM vs x86) still have to be run. Screenshots of the progress were shown during the NixCon 2026 talk but were hard to read on the big screen. We show them here:
 
-![Benchmark results](benchmark3.png)
+![Benchmark results](bench3.png)
 
-![Kubernetes node](benchmark2.png)
+![Kubernetes node](bench2.png)
 
 
 ## Why RISC-V
